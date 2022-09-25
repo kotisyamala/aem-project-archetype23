@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/binarycipher" mode="merge"/>
+    <filter root="/content/binarycipher" mode="merge"/>
+    <filter root="/content/dam/binarycipher/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/binarycipher" mode="merge"/>
+</workspaceFilter>
