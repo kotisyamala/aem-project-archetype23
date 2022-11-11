@@ -52,6 +52,7 @@ class HelloWorldModelTest {
 
         // create sling model
         hello = resource.adaptTo(HelloWorldModel.class);
+        System.out.println("Hello"+hello);
     }
 
     @Test
