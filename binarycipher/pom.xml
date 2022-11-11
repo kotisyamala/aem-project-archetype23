@@ -48,7 +48,8 @@
     <module>dispatcher</module>
             
     <module>ui.tests</module>
-      
+      <module>static-analysis</module>
+
   </modules>
       
   <properties>
